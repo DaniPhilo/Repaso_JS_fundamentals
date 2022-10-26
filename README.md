@@ -148,8 +148,9 @@ Escribe una función que acepte un número y un substractor (otro número). Mien
 substract(10, 3) // -2
 substract(5, 1) // 0
 ```
+  
 
-## Bonus tracks
+# Bonus tracks
 
 ## Bonus 1
 Escribe una función que acepte arrays bidimensionales y devuelva un nuevo array plano:
