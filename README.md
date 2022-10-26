@@ -151,7 +151,7 @@ substract(5, 1) // 0
 
 ## Bonus tracks
 
-## 1.
+## Bonus 1
 Escribe una función que acepte arrays bidimensionales y devuelva un nuevo array plano:
 ```javascript
 const arr = [ [1, 2], [3, 4], [5, 6], [7] ];
@@ -162,7 +162,7 @@ Tienes que hacerlo de dos formas:
 1. Usando el método de array `flat()`.
 2. Usando `reduce()`.  
 
-## 2.
+## Bonus 2
 Tienes 3 arrays:
 ```javascript
 const arr1 = ['b', 'd', 'e', 'a'];
